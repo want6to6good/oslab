@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../os-zyc/riscv64-ucore-labcodes/lab5/.idea/lab5.iml" filepath="$PROJECT_DIR$/../../os-zyc/riscv64-ucore-labcodes/lab5/.idea/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab55.iml" filepath="$PROJECT_DIR$/.idea/lab55.iml" />
+    </modules>
+  </component>
+</project>
